@@ -15,6 +15,9 @@ While the method above should work on both iOS and Android, Android users have a
 2. Install the [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en-GB) extension
 3. Add [this UserCSS](https://greasyfork.org/en/scripts/416013-anilist-high-contrast-dark-theme)
 
+## Preview
+<img width="48%" src="https://i.imgur.com/gHH872T.png"> <img width="48%" src="https://i.imgur.com/4gu98yg.jpg">
+
 ## Disclaimer
 The bookmarklet method requires you to run the bookmarklet every single time you re-open or reload the site. As AniList is a webapp, it won't auto-reload unless the token expire, so you should usually be fine.
 
